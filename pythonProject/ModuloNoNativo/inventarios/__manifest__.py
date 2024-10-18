@@ -4,6 +4,6 @@
     'depends': ['base'],
     'author':'Raúl Bodas',
     'description': 'Módulo donde indicamos el inventario de Odoo',
-    'data': [],
+    'data': ['views/navmenu.xml'],
     'installable': True,
 }
