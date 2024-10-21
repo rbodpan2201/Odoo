@@ -1,0 +1,36 @@
+<odoo>
+    <data>
+
+        <record id="view_presupuesto_form" model="ir.ui.view">
+        <field name="name">presupuesto.form</field>
+        <field name="model">presupuesto</field>
+        <field name="type">form</field>
+            <field name="arch" type="xml">
+                <form string="Presupuesto">
+                    <sheet>
+
+                        <widget name="web_ribbon" title="Archivado" bg_color="bg-primary"/>
+                        <group>
+                            <div style="width: 100%; background-color: #f0f0f0; padding: 10px; border-bottom:2px solid #ccc; margin-bottom:50px;">
+                                <h2 style="margin:0; font-size:24px; text-align:  center;">Detalles del Presupuesto</h2>
+                                <p style="text-align: center;">Complete la siguiente información para registrar un nuevo presupuesto.</p>
+                            </div>
+                            <br/>
+                            <group>
+                                <field name="name" string="Nombre del Presupuesto"/>
+                                <field name="start_date" string="Fecha de Inicio"/>
+                            </group>
+                            <group>
+                                <field name="price" string="Precio"/>
+                                <field name="status" string="Estado"/>
+                                <field name="is_active" string="Activo?"/>
+                            </group>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+
+    </data>
+</odoo>
