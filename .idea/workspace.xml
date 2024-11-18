@@ -1,30 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="086b18db-b76e-4550-96cf-d13d2a4f0472" name="Changes" comment="" />
+    <list default="true" id="086b18db-b76e-4550-96cf-d13d2a4f0472" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/addons/base_import_module/tests/test_cloc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/addons/base_import_module/tests/test_cloc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/addons/base_import_module/tests/test_import_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/addons/base_import_module/tests/test_import_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/addons/payment_stripe/views/payment_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/addons/payment_stripe/views/payment_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/addons/pos_self_order_stripe/views/assets_stripe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/addons/pos_self_order_stripe/views/assets_stripe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/addons/pos_stripe/views/assets_stripe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/addons/pos_stripe/views/assets_stripe.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/base/tests/test_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/base/tests/test_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/test_assetsbundle/tests/test_assetsbundle.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/test_assetsbundle/tests/test_assetsbundle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/test_converter/tests/test_vectors/pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/test_http/tests/test_misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/addons/test_http/tests/test_misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/modules/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/modules/module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/tools/cloc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/tools/cloc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/odoo/odoo/tools/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/odoo/odoo/tools/misc.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mxre2JkJEQkaQnSTfjJWdQuzAK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/usuario/Desktop/Clases/odoo_prueba2/pythonProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Otros ordenadores/Mi PC/Clases/ModulosNoNativos(manolo)&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
